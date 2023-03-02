@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 Currently learning Pentration Testing
-- 💻 Interested in Bug Bounty
+- 🌱 Pentration Tester
+- 💻 Bug Bounty Hunter
 - 👾 Green Hat
 
 ### Social
