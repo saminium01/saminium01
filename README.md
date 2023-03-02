@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🌱 Pentester
 - 💻 Bug Bounty Hunter
+- 🤖 Pentester
 - 👾 Green Hat
 
 ### Social
