@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 Pentration Tester
+- 🌱 Pentester
 - 💻 Bug Bounty Hunter
 - 👾 Green Hat
 
